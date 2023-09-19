@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, i'm [André](https://www.linkedin.com/in/andrevferreira/)! A full stack web developer and a freelance software engineer from Portugal. I'm also the founder of [Skillpick](https://skillpick.co). I've been coding for 7 years and I love to create elegant and beautiful things.
+Hi, i'm [André](https://www.linkedin.com/in/andrevferreira/)! A full stack web developer and a freelance software engineer from Portugal. I'm also the founder of [Skillpick](https://skillpick.co). I've been coding since 2012 and I love to create elegant and beautiful things.
 
 Feel free to reach out to [me](mailto:andrevferreiraa@gmail.com) for any freelancing gig!
 
